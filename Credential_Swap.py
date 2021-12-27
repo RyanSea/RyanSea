@@ -77,7 +77,7 @@ ActionChains(browser).move_to_element_with_offset(browser.find_element_by_xpath(
 #time.sleep(5)
 #
 #password_box = browser.find_element_by_name('phone_number')
-#password_box.send_keys('6505167090')
+#password_box.send_keys('')
 #time.sleep(5)
 #ActionChains(browser).move_to_element_with_offset(browser.find_element_by_xpath('//*[@id="layers"]'),850,60).click().perform()
 #time.sleep(5)
