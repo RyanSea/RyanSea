@@ -3,6 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import ActionChains
 import time
 
+//uses a webdriver to swap twitter credentials — some of the web driver resorts to clicking at a pixel location and is dependant on a given screen size
+
 handle = 'HandleSwapBot'
 seller_password = 'SellerPass41'
 #TODO: add hashing algo to create a temporary password & mailinator email 
